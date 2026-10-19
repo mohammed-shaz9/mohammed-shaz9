@@ -34,7 +34,7 @@ I'm **Mohammed Shahnawaz**, an AI/ML engineer in Hyderabad. I build retrieval-au
 multi-agent validation pipelines and the FastAPI services that put them in front of users.
 
 - 🛠️ Building client systems at **Yuva Intelli AI Solutions**
-- 🎓 Minor in Data Science & Machine Learning, **IIT Mandi** × Masai
+- 🎓 Minor in Data Science & Machine Learning, *** × Masai
 - 📜 Oracle Cloud Infrastructure Certified **Generative AI Professional**
 - 🌐 Everything I've built: **[mohammeds-portfolio.netlify.app](https://mohammeds-portfolio.netlify.app/)**
 - 💬 Ask me about **RAG, LangChain, agents, FastAPI, React**
